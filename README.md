@@ -23,7 +23,10 @@
 - `Java` (Core + DSA)
 
 #### 🌐 Frontend:
-- `React.js`, `Next.js`, `HTML`, `CSS`, `JavaScript`
+- `React.js`, `HTML`, `CSS`, `JavaScript`
+
+### Some UI Frame Works: 
+- `Daisy UI`, `Shadcn UI` , `Magic UI` , `Story set`
 
 #### 🗄️ Databases:
 - `MongoDB`, `Redis`
@@ -52,9 +55,9 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: **samirparvez.dev@gmail.com**
-- 💼 LinkedIn: [Samir Parvez](https://www.linkedin.com/in/samirparvez/)
-- 🧑‍💻 Portfolio: _Coming Soon..._
+- 📧 Email: **samirparvez48@gmail.com**
+- 💼 LinkedIn: "www.linkedin.com/in/samir-parvez-323595300"
+- 🧑‍💻 Portfolio: https://port-flio.vercel.app/
 
 ---
 
