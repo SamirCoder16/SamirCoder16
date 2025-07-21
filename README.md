@@ -16,6 +16,22 @@
 
 ---
 
+---
+
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirparvez&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirparvez&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samirparvez&theme=tokyonight)
+
+---
+
+### 🛠 Tech Stack:
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+
+
 ### 🛠️ Technologies & Tools I Use
 
 #### ⚙️ Backend & Frameworks:
