@@ -44,7 +44,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: **samirparvez48@gmail.com**
-- 💼 LinkedIn: "www.linkedin.com/in/samir-parvez-323595300"
+- 💼 LinkedIn: "www.linkedin.com/in/samir-parvez"
 - 🧑‍💻 Portfolio: https://port-flio.vercel.app/
 
 ---
