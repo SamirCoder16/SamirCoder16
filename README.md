@@ -45,7 +45,7 @@
 
 - 📧 Email: **samirparvez48@gmail.com**
 - 💼 LinkedIn: "www.linkedin.com/in/samir-parvez"
-- 🧑‍💻 Portfolio: https://port-flio.vercel.app/
+- 🧑‍💻 Portfolio: portfolio2-cyan-eight.vercel.app
 
 ---
 
