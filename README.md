@@ -8,7 +8,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I'm currently pursuing **Bachelor of Computer Application (BCA)** from **WBUT (MAKAUT)**
+- 🎓 BCA student** from **WBUT (MAKAUT)**
 - 💡 I love exploring **Backend Development**, **System Design**, and **Scalable Architecture**
 - 👨‍💻 I enjoy building **production-ready apps** and learning new technologies
 - 🧠 Focused on mastering **DSA (Java)** and **System Design**
