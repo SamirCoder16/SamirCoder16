@@ -11,7 +11,7 @@
 - 🎓 BCA student  from **WBUT (MAKAUT)**
 - 💡 I love exploring **Backend Development**, **System Design**, and **Scalable Architecture**
 - 👨‍💻 I enjoy building **production-ready apps** and learning new technologies
-- 🧠 Focused on mastering **DSA (Java)** and **System Design**
+- 🧠 Focused on mastering **DSA (JavaScript)** and **System Design**
 - 🌱 Currently deep diving into **Distributed Systems**, **DevOps**, and **Cloud Infrastructure**
 
 ---
@@ -20,7 +20,7 @@
 
 #### ⚙️ Backend & Frameworks:
 - `Node.js`, `Express.js`
-- `Java` (Core + DSA)
+- `JavaScript` (Core + DSA)
 
 #### 🌐 Frontend:
 - `React.js`, `HTML`, `CSS`, `JavaScript`
