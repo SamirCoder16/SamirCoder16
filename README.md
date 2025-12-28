@@ -23,13 +23,13 @@
 - `JavaScript` (Core + DSA)
 
 #### 🌐 Frontend:
-- `React.js`, `HTML`, `CSS`, `JavaScript`
+- `React.js`,`Redux & Redux-Tool-Kit`, `HTML`, `CSS`, `JavaScript`,`React-Query - Tanstack`
 
 ### Some UI Frame Works: 
 - `Daisy UI`, `Shadcn UI` , `Magic UI` , `Story set`
 
 #### 🗄️ Databases:
-- `MongoDB`, `Redis`
+- `MongoDB`, `Redis`,`PostgreSQL`
 
 #### 📦 DevOps & Tools:
 - `Docker`, `RabbitMQ`, `Kafka`, `Nginx`, `Postman`
