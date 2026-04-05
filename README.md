@@ -8,7 +8,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 BCA student  from **WBUT (MAKAUT)**
+- 🎓 BCA student  under **WBUT (MAKAUT)**
 - 💡 I love exploring **Backend Development**, **System Design**, and **Scalable Architecture**
 - 👨‍💻 I enjoy building **production-ready apps** and learning new technologies
 - 🧠 Focused on mastering **DSA (JavaScript)** and **System Design**
