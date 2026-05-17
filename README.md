@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir Parvez</h1>
 
 <p align="center">
-🚀 Passionate Developer | 💻 BCA Student @ WBUT (MAKAUT) | 🌱 Learning Daily  
+🚀 Passionate Developer | 💻 BCA Student under WBUT (MAKAUT) | 🌱 Learning Daily  
 </p>
 
 ---
