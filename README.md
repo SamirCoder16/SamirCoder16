@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir Parvez</h1>
 
 <p align="center">
-🚀 Softwere Engineer | 💻 BCA Student under WBUT (MAKAUT) | 🌱 Learning Daily  
+🚀 Software Engineer | 💻 BCA Student under WBUT (MAKAUT) | 🌱 Learning Daily | Build Daily
 </p>
 
 ---
@@ -26,7 +26,7 @@
 - `React.js`,`Redux & Redux-Tool-Kit`, `HTML`, `CSS`, `JavaScript`,`React-Query - Tanstack`
 
 ### Some UI Frame Works: 
-- `Daisy UI`, `Shadcn UI` , `Magic UI` , `Story set`
+- `Daisy UI`, `Shadcn UI` , `Story set`
 
 #### 🗄️ Databases:
 - `MongoDB`, `Redis`,`PostgreSQL`
