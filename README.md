@@ -11,7 +11,7 @@
 - 🎓 BCA student  under **WBUT (MAKAUT)**
 - 💡 I love exploring **Backend Development**, **System Design**, and **Scalable Architecture**
 - 👨‍💻 I enjoy building **production-ready apps** and learning new technologies
-- 🧠 Focused on mastering **DSA (JavaScript)** and **System Design**
+- 🧠 Focused on mastering **DSA (TypeScript)** and **System Design**
 - 🌱 Currently deep diving into **Distributed Systems**, **DevOps**, and **Cloud Infrastructure**
 
 ---
