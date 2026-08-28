@@ -34,6 +34,9 @@
 #### 📦 DevOps & Tools:
 - `Docker`, `RabbitMQ`, `Kafka`, `Nginx`, `Postman`
 
+- #### 🗄️ Monitoring Tools:
+- `Prometheus`, `Grafana`,`Loki`
+
 #### ☁️ Infrastructure & Others:
 - `CDN (Content Delivery Network)`
 - `Event-Driven Architecture`
