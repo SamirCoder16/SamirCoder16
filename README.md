@@ -34,7 +34,7 @@
 #### 📦 DevOps & Tools:
 - `Docker`, `RabbitMQ`, `Kafka`, `Nginx`, `Postman`
 
-- #### 🗄️ Monitoring Tools:
+#### 🗄️ Monitoring Tools:
 - `Prometheus`, `Grafana`,`Loki`
 
 #### ☁️ Infrastructure & Others:
