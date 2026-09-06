@@ -20,7 +20,7 @@
 
 #### ⚙️ Backend & Frameworks:
 - `Node.js`, `Express.js`
-- `JavaScript` (Core + DSA)
+- `JavaScript`  `TypeScript` (Core + DSA)
 
 #### 🌐 Frontend:
 - `React.js`,`Redux & Redux-Tool-Kit`, `HTML`, `CSS`, `JavaScript`,`React-Query - Tanstack`
