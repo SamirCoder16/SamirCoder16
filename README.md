@@ -4,6 +4,10 @@
 🚀 Software Engineer | 💻 BCA Student under WBUT (MAKAUT) | 🌱 Learning Daily | Build Daily
 </p>
 
+<p align="center">
+ Engineer's Quote : The magic you are looking for is in the work you are avoiding ....
+</p>
+
 ---
 
 ### 👨‍🎓 About Me
